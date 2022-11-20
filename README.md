@@ -1,5 +1,5 @@
 # PrusaMini-with-Klipper
-My walkthrough Klipper, Prusa Mini+ and SuperSlicer
+My walkthrough with Klipper, Prusa Mini+ and SuperSlicer the goal is to create high quality prints in a short time, using the state of the art features in klipper from the community.
 
 Inspired and compiled from:
 https://github.com/Fragmon,
